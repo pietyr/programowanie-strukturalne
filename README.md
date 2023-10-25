@@ -10,6 +10,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 3.3 - Dane studenta
     - Zadanie 3.4 - Obliczanie objętości i pola powierzchni brył
     - Zadanie 3.5 - Obliczanie średniej arytmetycznej i średniej geometrycznej dwóch liczb całkowitych
+    - Zadanie 3.6 - Przeliczanie wielkości fizycznych
 
 ## Możliwe problemy
 
