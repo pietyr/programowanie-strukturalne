@@ -15,6 +15,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 3.8 - Wyrażenia
     - Zadanie 3.9 - Wyrażenia - funkcje trygonometryczne
     - Zadanie 3.10 - Zamiana miejscami zmiennych i liczba odwrotna
+    - Zadanie 3.11 - Obwód okręgu
 
 ## Możliwe problemy
 
