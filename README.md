@@ -17,7 +17,9 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 3.10 - Zamiana miejscami zmiennych i liczba odwrotna
     - Zadanie 3.11 - Obwód okręgu
     - Zadanie 3.12 - Znaki
-
+- Lab 4 - pominięte - te same zadania, co w Lab 3 tylko, że napisane funkcjami.
+- Lab 5
+    - Zadanie 5.3 - Obliczanie wartości funkcji
 ## Możliwe problemy
 
 - W przypadku błędu 'undefined reference to 'X'', gdzie X to dowolna funkcja z biblioteki math.h należy w code::blocks w Settings -> Compiler -> Linker settings -> Other linker options dodać flagę -lm Błąd występuje głównie na systemie Linux
