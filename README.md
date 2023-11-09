@@ -21,6 +21,9 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
 - Lab 5
     - Zadanie 5.3 - Obliczanie wartości funkcji
     - Zadanie 5.4 - Przynależność punktu do wskazanego obszaru
+    - Zadanie 5.5 - Równanie kwadratowe
+
+
 ## Możliwe problemy
 
 - W przypadku błędu 'undefined reference to 'X'', gdzie X to dowolna funkcja z biblioteki math.h należy w code::blocks w Settings -> Compiler -> Linker settings -> Other linker options dodać flagę -lm Błąd występuje głównie na systemie Linux
