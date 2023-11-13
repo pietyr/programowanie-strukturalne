@@ -22,6 +22,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 5.3 - Obliczanie wartości funkcji
     - Zadanie 5.4 - Przynależność punktu do wskazanego obszaru
     - Zadanie 5.5 - Równanie kwadratowe
+    - Zadanie 5.6 - Pole trójkąta
 
 
 ## Możliwe problemy
