@@ -24,6 +24,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 5.5 - Równanie kwadratowe
     - Zadanie 5.6 - Pole trójkąta
     - Zadanie 5.7 - Miesiące
+    - Zadanie 5.8 - Szczęśliwy bilet
 
 
 ## Możliwe problemy
