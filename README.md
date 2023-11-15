@@ -28,6 +28,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 5.9 - Wypłata pracownika
     - Zadanie 5.10 - Stypendium studenta
     - Zadanie 5.11 - Liczby
+    - Zadanie 5.12 - Znaki
 
 
 ## Możliwe problemy
