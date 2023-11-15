@@ -26,6 +26,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 5.7 - Miesiące
     - Zadanie 5.8 - Szczęśliwy bilet
     - Zadanie 5.9 - Wypłata pracownika
+    - Zadanie 5.10 - Stypendium studenta
 
 
 ## Możliwe problemy
