@@ -30,7 +30,8 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 5.11 - Liczby
     - Zadanie 5.12 - Znaki
 - Lab 6
-    - Zadanie 6.1 - Średnia liczb
+    - Zadanie 6.2 - Średnia liczb
+    - Zadanie 6.3 - Średnia liczb parzystych i nieparzystych
 
 
 ## Możliwe problemy
