@@ -32,6 +32,8 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
 - Lab 6
     - Zadanie 6.2 - Średnia liczb
     - Zadanie 6.3 - Średnia liczb parzystych i nieparzystych
+- Lab 7
+    - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
 
 ## Możliwe problemy
