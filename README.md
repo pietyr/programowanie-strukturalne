@@ -34,6 +34,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 6.3 - Średnia liczb parzystych i nieparzystych
     - Zadanie 6.4 - Zliczanie wystąpień litery i liczby cyfr
     - Zadanie 6.5 - Znajdowanie największej liczby
+    - Zadanie 6.6 - Menu programu
 - Lab 7
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
