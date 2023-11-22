@@ -36,6 +36,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 6.5 - Znajdowanie największej liczby
     - Zadanie 6.6 - Menu programu
     - Zadanie 6.7 - Ciąg rosnący
+    - Zadanie 6.8 - Obliczenie stanu konta bankowego
 - Lab 7
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
