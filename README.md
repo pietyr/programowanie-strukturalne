@@ -39,6 +39,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 6.8 - Obliczenie stanu konta bankowego
     - Zadanie 6.9 - Sprawdzenie wyników egzaminu
     - Zadanie 6.10 - Hotel bez pokoju nr.13
+    - Zadanie 6.11 - Kody ASCII
 - Lab 7
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
