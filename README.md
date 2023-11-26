@@ -4,9 +4,11 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
 
 ## Treści zadań
 
-- Lab 1
+- Lab 1 - Wprowadzenie do programowania strukturalnego w języku C. Wprowadzenie do środowiska programistycznego.
     - Zadanie 1.4 - Wprowadzenie kodu źródłowego z instrukcji do programu CodeBlocks
-- Lab 3
+- Lab 2 - Podstawy tworzenia algorytmów, schematy Nassi-Schneidermana.
+    - Brak zadań w do wykonania w języku C.
+- Lab 3 - Proste programy imperatywne. Wprowadzanie i wyprowadzanie danych.
     - Zadanie 3.3 - Dane studenta
     - Zadanie 3.4 - Obliczanie objętości i pola powierzchni brył
     - Zadanie 3.5 - Obliczanie średniej arytmetycznej i średniej geometrycznej dwóch liczb całkowitych
@@ -17,8 +19,9 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 3.10 - Zamiana miejscami zmiennych i liczba odwrotna
     - Zadanie 3.11 - Obwód okręgu
     - Zadanie 3.12 - Znaki
-- Lab 4 - pominięte - te same zadania, co w Lab 3 tylko, że napisane funkcjami.
-- Lab 5
+- Lab 4 - Proste programy strukturalne. Funkcje standardowe i funkcje własne. Argumenty funkcji.
+    - Zadania pominięte - te same zadania, co w Lab 3 tylko, że napisane funkcjami.
+- Lab 5 - Instrukcje warunkowe IF, IF...ELSE. Operator warunkowy. Instrukcja wyboru SWITCH. Instrukcja BREAK.
     - Zadanie 5.3 - Obliczanie wartości funkcji
     - Zadanie 5.4 - Przynależność punktu do wskazanego obszaru
     - Zadanie 5.5 - Równanie kwadratowe
@@ -29,7 +32,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 5.10 - Stypendium studenta
     - Zadanie 5.11 - Liczby
     - Zadanie 5.12 - Znaki
-- Lab 6
+- Lab 6 - Instrukcje iteracyjne WHILE, DO...WHILE. Instrukcja CONTINUE.
     - Zadanie 6.2 - Średnia liczb
     - Zadanie 6.3 - Średnia liczb parzystych i nieparzystych
     - Zadanie 6.4 - Zliczanie wystąpień litery i liczby cyfr
@@ -40,7 +43,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 6.9 - Sprawdzenie wyników egzaminu
     - Zadanie 6.10 - Hotel bez pokoju nr.13
     - Zadanie 6.11 - Kody ASCII
-- Lab 7
+- Lab 7 - Instrukcja iteracyjna FOR.
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
 
