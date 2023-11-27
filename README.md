@@ -50,6 +50,7 @@ Zadania od laboratorium 7 (za wyjątkiem 7.11) tworzone w CLion
     - Zadanie 7.2 - Szlaczek
     - Zadanie 7.3 - Średnia liczb parzystych
     - Zadanie 7.4 - Lista płac
+    - Zadanie 7.5 - Ciąg arytmetyczny
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
 
