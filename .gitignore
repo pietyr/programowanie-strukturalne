@@ -57,3 +57,7 @@ dkms.conf
 # generated directories
 bin/
 obj/
+
+# CLion project files
+.idea
+cmake-build-*

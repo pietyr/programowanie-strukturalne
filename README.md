@@ -44,6 +44,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 6.10 - Hotel bez pokoju nr.13
     - Zadanie 6.11 - Kody ASCII
 - Lab 7 - Instrukcja iteracyjna FOR.
+    - Zadanie 7.2 - Szlaczek
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
 
