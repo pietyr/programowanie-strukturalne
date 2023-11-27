@@ -2,6 +2,9 @@
 
 Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
 
+Zadania z laboratoriów 1-6 tworzone w Code::Blocks
+Zadania od laboratorium 7 (za wyjątkiem 7.11) tworzone w CLion
+
 ## Treści zadań
 
 - Lab 1 - Wprowadzenie do programowania strukturalnego w języku C. Wprowadzenie do środowiska programistycznego.
@@ -45,6 +48,7 @@ Rozwiązania zadań z laboratorium przedmiotu Programowanie Strukturalne.
     - Zadanie 6.11 - Kody ASCII
 - Lab 7 - Instrukcja iteracyjna FOR.
     - Zadanie 7.2 - Szlaczek
+    - Zadanie 7.3 - Średnia liczb parzystych
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
 
