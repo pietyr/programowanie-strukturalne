@@ -53,6 +53,7 @@ Zadania od laboratorium 7 (za wyjątkiem 7.11) tworzone w CLion
     - Zadanie 7.5 - Ciąg arytmetyczny
     - Zadanie 7.6 - Suma szeregu
     - Zadanie 7.7 - Silnia n liczb nieujemnych
+    - Zadanie 7.8 - Liczby trzycyfrowe, które są równe sumie sześcianów swoich cyfr
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 
 
