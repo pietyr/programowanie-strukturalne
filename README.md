@@ -59,6 +59,7 @@ Zadania od laboratorium 7 (za wyjątkiem 7.11) tworzone w CLion
     - Zadanie 7.11 - Liczby (automorficzne, pierwsze, pitagorejskie)
 - Lab 9 - Funkcje z argumentami wskaźnikowymi
     - Zadanie 9.2 - Zamiana miejscami dwóch liczb
+    - Zadanie 9.3 - Zamiana wartości dwóch liczb
 
 
 ## Możliwe problemy
