@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Część całkowita i ułamkowa liczby rzeczywistej
+
 void dekompozycja(double liczba, int *czesc_calkowita, double *czesc_ulamkowa);
 
 int main() {

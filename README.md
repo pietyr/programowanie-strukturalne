@@ -61,6 +61,8 @@ Zadania od laboratorium 7 (za wyjątkiem 7.11) tworzone w CLion
     - Zadanie 9.2 - Zamiana miejscami dwóch liczb
     - Zadanie 9.3 - Zamiana wartości dwóch liczb
     - Zadanie 9.4 - Iloczyn liczb
+    - Zadanie 9.5 - Część całkowita i ułamkowa liczby rzeczywistej
+    - Zadanie 9.6 - Liczby
 
 
 ## Możliwe problemy
