@@ -63,6 +63,7 @@ Zadania od laboratorium 7 (za wyjątkiem 7.11) tworzone w CLion
     - Zadanie 9.4 - Iloczyn liczb
     - Zadanie 9.5 - Część całkowita i ułamkowa liczby rzeczywistej
     - Zadanie 9.6 - Liczby
+    - Zadanie 9.7 - Dwie największe liczby
 
 
 ## Możliwe problemy
