@@ -65,6 +65,7 @@ Zadania od laboratorium 7 (za wyjątkiem 7.11) tworzone w CLion
     - Zadanie 9.6 - Liczby
     - Zadanie 9.7 - Dwie największe liczby
     - Zadanie 9.8 - Lokaty bankowe
+    - Zadanie 9.9 - Układ równań liniowych
 
 ## Możliwe problemy
 
